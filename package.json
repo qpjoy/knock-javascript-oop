@@ -1,0 +1,31 @@
+{
+  "name": "knock-javascript-oop",
+  "version": "1.0.0",
+  "description": "## Encapsulation, Abstraction, Inheritance, Polymorphism",
+  "main": "employee.js",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "uglifyjs-webpack-plugin": "^2.0.1",
+    "webpack": "^4.27.1",
+    "webpack-cli": "^3.2.1"
+  },
+  "devDependencies": {
+    "babel-loader": "^7.1.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qpjoy/knock-javascript-oop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qpjoy/knock-javascript-oop/issues"
+  },
+  "homepage": "https://github.com/qpjoy/knock-javascript-oop#readme"
+}
